@@ -218,9 +218,7 @@ a:hover{
 	transform: translateX(40%);
 }
 
-#message{
-	display:none;
-}
+
 #fcontainer{
   position: absolute;
   top: 0;
