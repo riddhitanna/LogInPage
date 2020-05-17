@@ -6,8 +6,7 @@ html {
   background-size: cover;
   overflow: hidden;
   font-family: 'Domine', serif;
-  width: 100%;
-  height: auto;
+  max-width: 100%;
   overflow: hidden;
 }
 
@@ -34,6 +33,7 @@ img{
   overflow: hidden;
   opacity: 1;
   box-shadow: 5px 10px 10px #0d122e;
+  max-width: 100%;
 }
 
 
