@@ -27,13 +27,13 @@ img{
   bottom: 0;
   padding: 25px;
   margin: auto;
-  width: 100vw;
-  height: 100vw;
+  width: 100px;
+  height: 100px;
   border-radius: 50%;
   background: rgba(0,0,10,0.8);
   overflow: hidden;
   opacity: 1;
-  box-shadow: 5vw 10vw 10vw #0d122e;
+  box-shadow: 5px 10px 10px #0d122e;
 }
 
 
@@ -45,15 +45,15 @@ img{
   right: 0;
   bottom: 0;
   margin: auto;
-  padding: 20vw;
-  width: 450vw;
-  height: 350vw;
-  border-radius: 5vw;
+  padding: 20px;
+  width: 450px;
+  height: 350px;
+  border-radius: 5px;
   background: rgba(10, 10, 10,0.8);
-  box-shadow: 1vw 1vw 50vw #000;
+  box-shadow: 1px 1px 50px #000;
   color:black;
   display: none;
-  font-size: 20vw;
+  font-size: 20px;
   font-family: 'Domine', serif;
 }
 
@@ -227,10 +227,10 @@ a:hover{
   right: 0;
   bottom: 0;
   margin: auto;
-  padding: 20vw;
-  width: 400vw;
-  height: 200vw;
-  border-radius: 10vw;
+  padding: 20px;
+  width: 400px;
+  height: 200px;
+  border-radius: 10px;
   background: rgba(0,0,0,0.8);
   box-shadow: 1px 1px 50px #000;
   font-size: 20px;
