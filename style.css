@@ -182,7 +182,7 @@ a:hover{
 }
 
 #remember{
-  position: relative;
+  position: absolute;
   font-size: 13px;
   color: rgba(255,255,255,.5);
   top: 7px;
